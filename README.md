@@ -1,6 +1,6 @@
 # 👋 Anatoly Yakukhin
 
-<img src="hhttps://avatars.githubusercontent.com/u/141354672?s=400&u=5e8d61c34f3c41e4c2c62cd743361e211626e70a&v=4" alt="Anatoly smiling" width="150" height="150" style="border-radius: 50%; margin: 20px auto; display: block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+<img src="https://avatars.githubusercontent.com/u/141354672?v=4" alt="Anatoly smiling" width="150" height="150" style="border-radius: 50%; margin: 20px auto; display: block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 
 ## About Me 🎵
 
