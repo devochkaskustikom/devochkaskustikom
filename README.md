@@ -1,10 +1,10 @@
-# 👋 Anatoly Yakukhin
+# 👋 devochkaskustikom
 
-<img src="https://avatars.githubusercontent.com/u/141354672?v=4" alt="Anatoly smiling" width="150" height="150" style="border-radius: 50%; margin: 20px auto; display: block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+<img src="https://avatars.githubusercontent.com/u/141354672?v=4" alt="девочка с кустиком / devochkaskustikom smiling" width="150" height="150" style="border-radius: 50%; margin: 20px auto; display: block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 
 ## About Me 🎵
 
-Hi there! I'm **Anatoly** - a 21-year-old developer and music nerd 🎧 who loves building cool things at the intersection of tech and music. 
+Hi there! I'm **девочка с кустиком / devochkaskustikom** - a 21-year-old developer and music nerd 🎧 who loves building cool things at the intersection of tech and music. 
 
 I specialize in:
 - **JavaScript** (and its awesome ecosystem: Node.js, React.js, Next.js)
@@ -68,8 +68,3 @@ My music library spans everything from underground artists with just 100 listene
 ---
 
 Glad you're here! Let's make something awesome together 🎶✨
-
-<!---
-devochkaskustikom/devochkaskustikom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
