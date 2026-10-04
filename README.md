@@ -1,70 +1,52 @@
-# 👋 devochkaskustikom
+# девочка с кустиком
 
 <img src="https://avatars.githubusercontent.com/u/141354672?v=4" alt="девочка с кустиком / devochkaskustikom smiling" width="150" height="150" style="border-radius: 50%; margin: 20px auto; display: block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 
-## About Me 🎵
-
-Hi there! I'm **девочка с кустиком / devochkaskustikom** - a 21-year-old developer and music nerd 🎧 who loves building cool things at the intersection of tech and music. 
-
-I specialize in:
-- **JavaScript** (and its awesome ecosystem: Node.js, React.js, Next.js)
-- Creating web apps that make life easier for musicians and music lovers
-- Building tools that help artists share their music with the world 🌍
-
-By day, I work on music licensing and developing a music distribution platform (think ONErpm/DistroKid but with my own twist). By night, you'll find me experimenting with new tech or discovering obscure music genres. 
+CEO + DEV @ [overdose.media](https://overdose.media)  
+Музыкальная дистрибуция, лицензирование и инфраструктура для артистов.
 
 ---
 
-## My Toolkit 💻
+### Сейчас
 
-Here's what I'm currently working with:
+Строю и поддерживаю инфраструктуру музыкального дистрибьютора.  
+Параллельно пишу open-source инструменты, которые реально использую сам:
 
-| Category              | Skills                                                                 |
-|-----------------------|------------------------------------------------------------------------|
-| **Languages**         | JavaScript (ES6+), TypeScript 💬                                      |
-| **Frontend**          | React.js, Next.js, HTML5, CSS3 🎨                                     |
-| **Backend**           | Node.js, Express.js 🚀                                                |
-| **Databases**         | MongoDB, PostgreSQL 🗃️                                               |
-| **Tools**             | Git, GitHub, REST APIs, GraphQL 🔄                                    |
-| **Music Specialties** | Music Licensing, Distribution Platforms 🎶                            |
+- **[aapanel-mcp](https://github.com/devochkaskustikom/aapanel-mcp)** - MCP-сервер для управления aaPanel через AI-агентов, с authentication, read-only mode и credential redaction
+- **[antiCORS](https://github.com/devochkaskustikom/antiCORS)** - лёгкий CORS-прокси для разработки
+- **[lyricgenerator](https://github.com/devochkaskustikom/lyricgenerator.github.io)** - генератор TTML для karaoke/Musixmatch и цифровых агрегаторов
+
+Большая часть коммерческой работы остаётся закрытой.
 
 ---
 
-## What I'm Passionate About 🌟
+### Stack
 
-1. **Music Licensing**: Helping artists protect their work while getting it heard
-2. **Distribution Tech**: Building platforms that make global music distribution a breeze for creators
-3. **Community Projects**: Occasionally contributing to open-source tools for musicians
+```text
+TypeScript · JavaScript · Node.js
+React · Next.js · Express
+MariaDB · PostgreSQL
+REST · MCP
+```
 
----
-
-## Recent Adventures 🚧
-
-While most of my work is on proprietary music tech, I love sharing smaller projects here. Check out my repos for:
-- Experimental music visualization tools
-- Handy scripts for artist analytics
-- Occasional meme-worthy coding experiments 😄
+Иногда PHP, когда нужно быстро.
 
 ---
 
-## Let's Connect! 🤝
+### overflow/name
 
-I'd love to chat about:
-- Music tech innovations
-- Cool JavaScript tricks
-- Your favorite underrated artists
+Музыкальный дистрибьютор.  
+Распространяем релизы артистов по площадкам, занимаемся лицензированием и инфраструктурой вокруг этого.
 
-Find me here:
-- **Email**: [ceo@asclabel.com](mailto:ceo@asclabel.com) ✉️
-- **Telegram**: [https://t.me/overdosemedia](https://t.me/overdosemedia) 💼
-- **GitHub**: [github.com/devochkaskustikom](https://github.com/devochkaskustikom) 🐧
+- [overflow/name](https://overflow.name)
+- [Telegram](https://t.me/overflow/name)
+- [VK](https://vk.com/overflowname)
 
 ---
 
-## Fun Fact 🎧
+### Контакты
 
-My music library spans everything from underground artists with just 100 listeners on Spotify to viral albums that have taken over TikTok trends. 🎸
+- Telegram: [t.me/devochkaskustikom](https://t.me/devochkaskustikom)
+- Email: [hello@ti2a.ru](mailto:hello@ti2a.ru)
 
----
-
-Glad you're here! Let's make something awesome together 🎶✨
+По вопросам сотрудничества и техническим штукам - лучше в Telegram.
