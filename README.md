@@ -13,7 +13,7 @@ CEO + DEV @ [overdose.media](https://overdose.media)
 Параллельно пишу open-source инструменты, которые реально использую сам:
 
 - **[aapanel-mcp](https://github.com/devochkaskustikom/aapanel-mcp)** - MCP-сервер для управления aaPanel через AI-агентов, с authentication, read-only mode и credential redaction;
-- **[antiCORS](https://github.com/devochkaskustikom/release-flow-docs)** - Agent's SKILLS для музыкальных дистрибьюторов: следить за тем, чтобы документация по процессу выпуска соответствовала коду, или создать локальный API для модерации Adonis/Nest;
+- **[release-flow-skill](https://github.com/devochkaskustikom/release-flow-docs)** - Agent's SKILLS для музыкальных дистрибьюторов: следить за тем, чтобы документация по процессу выпуска соответствовала коду, или создать локальный API для модерации Adonis/Nest;
 - **[ttml-karaoke-generator](https://github.com/devochkaskustikom/ttml-karaoke-generator)** - генератор TTML для karaoke/Musixmatch и цифровых агрегаторов.
 
 Большая часть коммерческой работы остаётся закрытой.
