@@ -14,7 +14,7 @@ CEO + DEV @ [overdose.media](https://overdose.media)
 
 - **[aapanel-mcp](https://github.com/devochkaskustikom/aapanel-mcp)** - MCP-сервер для управления aaPanel через AI-агентов, с authentication, read-only mode и credential redaction
 - **[antiCORS](https://github.com/devochkaskustikom/antiCORS)** - лёгкий CORS-прокси для разработки
-- **[lyricgenerator](https://github.com/devochkaskustikom/lyricgenerator.github.io)** - генератор TTML для karaoke/Musixmatch и цифровых агрегаторов
+- **[ttml-karaoke-generator](https://github.com/devochkaskustikom/ttml-karaoke-generator)** - генератор TTML для karaoke/Musixmatch и цифровых агрегаторов
 
 Большая часть коммерческой работы остаётся закрытой.
 
